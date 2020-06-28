@@ -1,1 +1,4 @@
-# ssr-boilerplate
+# SSR boilerplate
+
+`razzle` + `typescript`, `prettier` 
+
